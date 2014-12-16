@@ -6,7 +6,7 @@
 :Long Description:This Script to monitor System resources like 
 CPU, Memory, Buffers.
 :Input:System ID
-:Output:CPU, Memory, Buffers Status.
+:Output:CPU, Memory, Buffers Status
 """
 
 import os
