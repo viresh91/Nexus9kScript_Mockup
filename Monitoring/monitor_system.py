@@ -3,8 +3,8 @@
 #Category:Monitoring
 #Title:Resource Monitoring
 #Short Description:This script to monitor System resources.
-#Long Description:"This Script to monitor System resources \
-                  like CPU, Memory, Buffers."
+#Long Description:This Script to monitor System resources \
+like CPU, Memory, Buffers.
 #Input:System ID
 #Output:CPU, Memory, Buffers Status.
 """
