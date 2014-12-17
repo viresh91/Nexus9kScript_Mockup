@@ -1,11 +1,11 @@
-"""
-Nexus:9000:9516:NX-OS Release 6.2
-Category:Configuration Management
-Title:FEX Configuration
-Short Description:This script is to automate configuring verification.
-Long Description:This script is to automate configuring FEX and verification.
-Input:FEX ID
-Output:Config Result
+"""Script Cataloging Information
+:Product Info:Nexus::9000::9516::NX-OS Release 6.2
+:Category:Config-Mgmt
+:Title:FEX Configuration
+:Short Description:This script is to automate configuring verification.
+:Long Description:This script is to automate configuring FEX and verification.
+:Input:FEX ID
+:Output:Config Result
 """
 
 import os

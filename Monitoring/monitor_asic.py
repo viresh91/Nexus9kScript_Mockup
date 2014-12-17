@@ -1,11 +1,11 @@
-"""
-Nexus:9000:9516:NX-OS Release 6.2
-Category:Monitoring
-Title:ASIC Monitoring
-Short Description:This script to monitor ASIC Errors.
-Long Description:This Script to monitor different ASIC errors and drops.
-Input:ASIC ID
-Output:ASIC Errors and Drops Status.
+"""Script Cataloging Information
+:Product Info:Nexus::9000::9516::NX-OS Release 6.2
+:Category:Monitoring
+:Title:ASIC Monitoring
+:Short Description:This script to monitor ASIC Errors.
+:Long Description:This Script to monitor different ASIC errors and drops.
+:Input:ASIC ID
+:Output:ASIC Errors and Drops Status.
 """
 
 import os

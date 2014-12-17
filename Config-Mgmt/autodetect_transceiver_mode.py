@@ -1,11 +1,11 @@
-"""
-Nexus:9000:9516:NX-OS Release 6.2
-Category:Configuration Management
-Title:Autodetect Transceiver Mode
-Short Description:This script is to autodetect transceiver mode and configuration.
-Long Description:This script is to autodetect transceiver mode and configure the correct Speed.
-Input:Transceiver ID
-Output:Config Result
+"""Script Cataloging Information
+:Product Info:Nexus::9000::9516::NX-OS Release 6.2
+:Category:Config-Mgmt
+:Title:Autodetect Transceiver Mode
+:Short Description:This script is to autodetect transceiver mode and configuration.
+:Long Description:This script is to autodetect transceiver mode and configure the correct Speed.
+:Input:Transceiver ID
+:Output:Config Result
 """
 
 import os
