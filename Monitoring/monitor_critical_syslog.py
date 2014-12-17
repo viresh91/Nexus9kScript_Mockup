@@ -5,7 +5,7 @@
 :Short Description:This script to monitor Critical Syslog Errors.
 :Long Description:This Script to monitor monitor critical Syslog errors like 
 Alerting and take action. 
-Example: ( ospf adj flapping more than X times in Y duration, cost out the link).
+Example( ospf adj flapping more than X times in Y duration, cost out the link).
 :Input:Syslog ID
 :Output:Critical Syslog Error Status.
 """
