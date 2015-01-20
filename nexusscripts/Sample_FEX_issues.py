@@ -1,7 +1,7 @@
 """Script Cataloging Information
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Troubleshooting
-:Title:Sample Fix for FEX issues
+:Title:Sample Fix for FEX issues 2
 :Short Description:This script is to fix FEX issues.
 :Long Description:This script is to fix FEX changes.
 :Input:Target ID
