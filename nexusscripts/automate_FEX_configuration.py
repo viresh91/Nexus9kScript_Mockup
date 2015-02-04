@@ -5,7 +5,7 @@
 :Short Description:This script is to automate configuring verification.
 :Long Description:This script is to automate configuring FEX and verification.
 :Input:FEX ID
-:Output:Config Result
+:Output:Config Result 
 """
 
 import os

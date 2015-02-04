@@ -5,7 +5,7 @@ Title:Health Check
 Short Description:This script is to check Health for the switch.
 Long Description:This script is to check Health for the switch like Entire switch diagnostics.
 Input:Target ID
-Output:Result
+Output:Result 
 """
 
 import os

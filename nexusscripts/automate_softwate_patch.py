@@ -5,7 +5,7 @@
 :Short Description:This script is to automate patch.
 :Long Description:This script is to automate software patch management.
 :Input:Patch ID
-:Output:Result
+:Output:Result 
 """
 
 import os

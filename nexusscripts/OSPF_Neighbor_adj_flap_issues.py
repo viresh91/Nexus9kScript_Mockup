@@ -5,7 +5,7 @@
 :Short Description:This script is to fix OSPF issues.
 :Long Description:This script is to fix OSPF <neighbor> adjacency relationship changes.
 :Input:Target ID
-:Output:Result
+:Output:Result 
 """
 
 import os

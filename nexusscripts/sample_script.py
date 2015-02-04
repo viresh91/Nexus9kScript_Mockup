@@ -6,7 +6,7 @@
 :Long Description:This script is to monitor Interface counters like
 Drops, Errors, Utilization.
 :Input:Interface ID
-:Output:Drop, Errors and Utilization Status.
+:Output:Drop, Errors and Utilization Status. 
 """
 
 import os

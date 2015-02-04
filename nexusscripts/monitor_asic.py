@@ -5,7 +5,7 @@
 :Short Description:This script to monitor ASIC Errors.
 :Long Description:This Script to monitor different ASIC errors and drops.
 :Input:ASIC ID
-:Output:ASIC Errors and Drops Status.
+:Output:ASIC Errors and Drops Status. 
 """
 
 import os

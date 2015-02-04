@@ -5,7 +5,7 @@
 :Short Description:This script is to dynamically check CDP state and configure.
 :Long Description:This script is to dynamically check the CDP state and autoconfigure interface description.
 :Input:Interface ID
-:Output:Config Result
+:Output:Config Result 
 """
 
 import os

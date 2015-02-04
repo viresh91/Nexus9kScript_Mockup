@@ -5,7 +5,7 @@
 :Short Description:This script is to automate Vlan creation.
 :Long Description:This script is to automate Vlan creation - L2 and L3.
 :Input:VLAN ID
-:Output:Config Result
+:Output:Config Result 
 """
 
 import os

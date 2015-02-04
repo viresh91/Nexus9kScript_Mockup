@@ -5,7 +5,7 @@
 :Short Description:This script is to autodetect transceiver mode and configuration.
 :Long Description:This script is to autodetect transceiver mode and configure the correct Speed.
 :Input:Transceiver ID
-:Output:Config Result
+:Output:Config Result 
 """
 
 import os
