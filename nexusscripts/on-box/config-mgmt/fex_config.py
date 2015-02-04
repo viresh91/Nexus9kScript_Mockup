@@ -5,10 +5,10 @@
 :Short Description:To dynamically configure FEX
 :Long Description: Check the FEX state.If not installed,install the FEX.
 If not enabled ,enable the FEX.
-Input: command to check the FEX installation and based on the command output,
+:Input: command to check the FEX installation and based on the command output,
        install the FEX.command to check FEX is enabled or not.
 
-Output : FEX should be enabled
+:Output: FEX should be enabled
 
 """
 
