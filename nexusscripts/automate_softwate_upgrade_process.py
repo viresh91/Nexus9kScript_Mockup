@@ -1,6 +1,7 @@
 """Script Cataloging Information
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:OS-Mgmt
+:Box Type: Off-Box
 :Title:Automate Software Upgrade Process
 :Short Description:This script is to automate upgrade process.
 :Long Description:TThis script is to automate software upgrade process.

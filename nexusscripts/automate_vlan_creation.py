@@ -1,6 +1,7 @@
 """Script Cataloging Information
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Config-Mgmt
+:Box Type: Off-Box
 :Title:Automate Vlan creation
 :Short Description:This script is to automate Vlan creation.
 :Long Description:This script is to automate Vlan creation - L2 and L3.

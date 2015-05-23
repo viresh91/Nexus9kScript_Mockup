@@ -1,6 +1,7 @@
 """
 Nexus:9000:9516:NX-OS Release 6.2
 Category:Troubleshooting Tools
+:Box Type: On-Box
 Title:Fix for vPC issues
 Short Description:This script is to fix vPC issues.
 Long Description:This script is to fix vPC changes.

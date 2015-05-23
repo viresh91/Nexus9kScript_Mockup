@@ -1,6 +1,7 @@
 """Script Cataloging Information
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:OS-Mgmt
+:Box Type: Off-Box
 :Title:Automate Software Patch Management
 :Short Description:This script is to automate patch.
 :Long Description:This script is to automate software patch management.

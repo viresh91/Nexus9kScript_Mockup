@@ -1,6 +1,7 @@
 """Script Cataloging Information
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Monitoring
+:Box Type: Off-Box
 :Title:ASIC Monitoring
 :Short Description:This script to monitor ASIC Errors.
 :Long Description:This Script to monitor different ASIC errors and drops.

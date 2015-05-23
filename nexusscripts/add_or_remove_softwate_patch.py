@@ -1,6 +1,7 @@
 """Script Cataloging Information
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:OS-Mgmt
+:Box Type: On-Box
 :Title:Add/Remove Software Patches
 :Short Description:This script is to Add/Remove Software Patches.
 :Long Description:This script is to add or remove software patches.

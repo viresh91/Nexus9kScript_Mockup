@@ -1,6 +1,7 @@
 """Script Cataloging Information
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Monitoring
+:Box Type: Off-Box
 :Title:Critical Syslog Monitoring
 :Short Description:This script to monitor Critical Syslog Errors.
 :Long Description:This Script to monitor monitor critical Syslog errors like 
