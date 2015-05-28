@@ -3,10 +3,10 @@
 :Category:Monitoring
 :Box Type: On-Box
 :Title:Test Script by Gopal
-:Short Description:This script to monitor System resources.
+:Short Description:This script to monitor System resources and modified.
 :Long Description:This Script to monitor System resources like 
 CPU, Memory, Buffers.
-:Input:System ID
+:Input:System IDs
 :Output:CPU, Memory, Buffers Status 
 """
 
