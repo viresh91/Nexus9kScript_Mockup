@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:TestNewCategory
 :Box Type:On-Box
-:Title:Today Test Script with New Category by viresh pu
+:Title:Today Test Script with New Category by vire
 :Short Description:This script to monitor System resources and modified.
 :Long Description:This Script to monitor System resources and modified like 
 CPU, Memory, Buffers.
