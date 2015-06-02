@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Monitoring
 :Box Type:On-Box
-:Title:My new title
+:Title:Rechecking the title
 :Short Description:
 :Long Description:
 :Input:
