@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Monitoring
 :Box Type: On-Box
-:Title: new checking title
+:Title: new checking title one
 :Short Description:This script to monitor System resources and modified.
 :Long Description:This Script to monitor System resources(modified) like 
 CPU, Memory, Buffers.
